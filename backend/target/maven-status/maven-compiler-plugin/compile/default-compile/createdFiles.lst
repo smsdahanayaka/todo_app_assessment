@@ -1,0 +1,6 @@
+com\assingment\todo\entity\Task$Status.class
+com\assingment\todo\entity\Task.class
+com\assingment\todo\service\TaskService.class
+com\assingment\todo\controller\TaskController.class
+com\assingment\todo\TodoApplication.class
+com\assingment\todo\repository\TaskRepository.class
